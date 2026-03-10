@@ -37,5 +37,3 @@ A premium Flutter application for measuring areas and distances in the real worl
 - **vector_math**: For geometric calculations
 
 ---
-
-_Built with ❤️ by Antigravity_
